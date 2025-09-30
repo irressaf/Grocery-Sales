@@ -1,0 +1,3 @@
+# Grocery Sales
+
+An educational task to explore how to predict thousands of product sales in further weeks on real world data.
